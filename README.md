@@ -24,7 +24,7 @@ to MySQL through a private Docker network.
 
 ## Website Access
 
-http://YOUR-UBUNTU-IP:8080
+http://172.25.151.4:8080
 
 ## Deployment Commands
 
